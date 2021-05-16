@@ -9,8 +9,6 @@
 </p>
 
 <p align="center">
-  <a href="https://www.youtube.com/c/DevProTips">
-    <img alt="youtube views" title="YouTube views" src="https://freshidea.com/jonah/youtube-api/view-count-badge-temp.php?label=Views&color=e1ad0e&labelColor=c79600&style=for-the-badge"/></a> 
   <a href="https://twitter.com/simman">
     <img alt="followers" title="Follow me on Twitter" src="https://img.shields.io/twitter/follow/simman?color=55960c&labelColor=488207&label=Follow&logo=twitter&logoColor=white&style=for-the-badge"/></a>
   <a href="https://github.com/simman">
