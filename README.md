@@ -21,7 +21,7 @@
 
 <!-- GitHub Readme Streak Stats - https://github.com/simman/github-readme-streak-stats -->
 <p align="center">
-  <a href="https://github.com/simman/github-readme-streak-stats">
+  <a href="https://github.com/simman/simman">
     <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="simman's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=simman&theme=monokai-metallian&hide_border=true"/>
   </a>
 </p>
